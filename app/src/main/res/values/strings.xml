@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MewPractice</string>
+    <string name="retrofit_demo">Retrofit Demo</string>
+</resources>
